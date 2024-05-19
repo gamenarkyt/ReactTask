@@ -1,0 +1,5 @@
+.header {
+	color: var(--yui-color-accent);
+	font-weight: bold;
+	background-color: var(--yui-color-secondary);
+}
